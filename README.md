@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @delkamerchant
-- 👀 I’m interested in Email Development/Marketing
+- 👀 I’m interested in HTML Email Development/Marketing
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything that enhances my skillset
 - 📫 How to reach me ...
